@@ -1,0 +1,11 @@
+# Site settings
+title: FrostedMilk
+email: hello@frostedmilk.com
+description: > #
+  Under construction blooooog.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.frostedmilk.com" # the base hostname & protocol for your site
+github_username:  jvcudis
+
+# Build settings
+markdown: kramdown
